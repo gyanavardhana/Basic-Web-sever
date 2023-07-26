@@ -1,0 +1,45 @@
+h1{
+    text-align:center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+}
+body{
+    background-color: #201E20;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXPgfDxpMn_4kn2q4hInhBKXJ2OOkQ9VggQg&usqp=CAU');
+}
+.btn
+{
+    width:100px;
+}
+#UIinputValue{
+    width:180px;
+    margin-left: 30px;
+}
+form{
+    width: 60vw;
+    max-width: 500px;
+    min-width: 300px;
+    margin: 0 auto;
+    padding-bottom: 2em;
+}
+ .row{
+    width: 60vw;
+    max-width: 600px;
+    min-width: 300px;
+    margin: 0 auto;
+    padding-bottom: 2em;
+    text-align: center;
+  }
+
+.container{
+    margin-top:9%;
+    
+
+}
+.card{
+    padding: 5%;
+}
+.card,.form-control,.form-select,.input-group-text,.calculateBtn,option{
+    border-radius: 70px;
+    background-color: #FFFFD2;
+}
